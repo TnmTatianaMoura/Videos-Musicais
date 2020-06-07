@@ -1,2 +1,2 @@
-# Videos-Musicais
-Site para videos musicais 
+# Projeto-Musical
+Site para músicos
